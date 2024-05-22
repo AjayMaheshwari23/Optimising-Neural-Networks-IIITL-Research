@@ -1,5 +1,8 @@
 # Optimizing Neural Networks for Mobile Devices
 
+![alt text](/paper//figures/phone.jpg)
+
+
 ## Overview
 This repository contains the code and experiments for our research paper on optimizing neural networks for mobile devices using a novel pipeline. Our pipeline combines pruning, knowledge distillation, weight clustering, and quantization to significantly reduce model size and computations while maintaining accuracy.
 
@@ -27,5 +30,5 @@ This repository contains the code and experiments for our research paper on opti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/optimizing-neural-networks.git
-   cd optimizing-neural-networks
+   git clone https://github.com/AjayMaheshwari23/Optimising-Neural-Networks-IIITL-Research.git
+   cd Optimising-Neural-Networks-IIITL-Research
