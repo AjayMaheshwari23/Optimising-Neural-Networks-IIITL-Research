@@ -1,15 +1,11 @@
 # Optimizing Neural Networks for Mobile Devices
 
-![alt text](/paper//figures/phone.jpg)
-
-
 ## Overview
 This repository contains the code and experiments for our research paper on optimizing neural networks for mobile devices using a novel pipeline. Our pipeline combines pruning, knowledge distillation, weight clustering, and quantization to significantly reduce model size and computations while maintaining accuracy.
 
-## Pipeline Steps
-
 ![alt text](/paper//figures/pipeline.jpg)
 
+## Pipeline Steps
 1. **Pruning**: Removing unnecessary connections to reduce model complexity.
 2. **Knowledge Distillation**: Using a teacher-student framework to fine-tune the pruned model.
 3. **Weight Clustering**: Grouping similar weights to further compress the model.
@@ -29,6 +25,12 @@ This repository contains the code and experiments for our research paper on opti
   - `figures/`: Figures used in the paper.
   - `references.bib`: Bibliography file.
   - `draft.pdf`: Draft of the research paper.
+
+
+
+<!-- ![alt text](/paper//figures/phone.jpg) -->
+
+
 
 ## Installation
 1. Clone the repository:
