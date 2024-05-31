@@ -28,7 +28,7 @@ This repository contains the code and experiments for our research paper on opti
 
 
 
-<!-- ![alt text](/paper//figures/phone.jpg) -->
+![alt text](/paper//figures/phone.jpg)
 
 
 
@@ -37,3 +37,17 @@ This repository contains the code and experiments for our research paper on opti
    ```bash
    git clone https://github.com/AjayMaheshwari23/Optimising-Neural-Networks-IIITL-Research.git
    cd Optimising-Neural-Networks-IIITL-Research
+
+2. Change the directory:
+   ```bash
+   cd Code/experiments
+
+3. Install all the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+4. Open any folder that you would like to run the ipynb file:
+   ```bash
+   echo "To run a Jupyter Notebook, execute: jupyter notebook"
+
+
